@@ -1,4 +1,6 @@
-﻿uniform vec2 resolution;
+﻿#version 330 core
+
+uniform vec2 resolution;
 uniform int sceltaFS;
 uniform vec2 sunPos;
 uniform float iTime;
